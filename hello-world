@@ -25,3 +25,14 @@ public class Sample
       System.out.println("Baked in a pie.");
    } // End main
 } // End Sample
+//public class CheckpointQuestion 
+{
+   public static void main( String args[] ) 
+   {
+       // Write your answer here:
+
+
+
+
+   } // End main
+} // End CheckpointQuestion
