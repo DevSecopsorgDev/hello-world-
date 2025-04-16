@@ -10,5 +10,6 @@ class Main {
     System.out.println(first);   // print Java
     System.out.println(second);  // print Python
     System.out.println(third);   // print JavaScript
+    System.out.println("End");
   }
 }
